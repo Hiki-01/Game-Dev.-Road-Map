@@ -7,7 +7,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
 # Programming Languages
  - ## C# 
      - [**C# Tutorial**](http://bit.ly/CsharpCAT)
-     - [**Brackeys**](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+     - [**Brackeys C# Basics**](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
         
       - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
         
@@ -134,8 +134,9 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
 	
 	
 # Assets
- - https://kenney.nl/assets
+ - [Kenney](https://kenney.nl/assets)
  - [Unity Asset Store](https://assetstore.unity.com/)
+ - [itch](https://itch.io/game-assets)
  - ## 2D Bitmap and Vector Graphics
      - [opengameart.org](http://opengameart.org)
      - [www.pexels.com](http://www.pexels.com)
