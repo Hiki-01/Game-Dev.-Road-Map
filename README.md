@@ -1,15 +1,21 @@
 # **Intro**
-GameDev (to me at least) is a track composed of multiple technologies.
-To truly learn it you will find yourself learning many technologies that may seem unrelated at first some of which are (Mathes, Software Engineering Architecture,  AI, ML) then you may dive deeper into graphics or just follow your passion wherever it leads you.
-I recommend starting by learning C# then Unity to get a good understanding of GameDev then starting from there, If you prefer C++ and think yourself ready for Unreal then go right ahead and start learning Unreal, You enjoy Modelling more? Well start by learning Blender and see where it goes from there, Interested in knowing how that all works from a low level perspective? Well, guess you should be ready to start learning Graphics APIs like OpenGL at the end i want to say you will love game dev. it's amazing when you make your imagination to reality.
+**Life is a game you just need to it's know the rules**
+Game Dev. Is a very interested Track (To me at leaset) You Can make Your own World With It. Game Dev. consist of 3 basics 
+branches=> Game Programming - Art - Design and Each one of them is more interesting than the others for make a game we use 
+a platforms Called Engine it make it easy for as to make a game So you don't need to learn subjects to make a game at least
+for beginner you just need to learn the engine Function & programming so what stop you for being A part of Game dev. track
+just start from here.
 
 
 # Programming Languages
- - ## C# 
-     - [**C# Tutorial**](http://bit.ly/CsharpCAT)
+**Intro**
+For programming without it you can consider the game as it's just an constant art with any action maybe a little bit actions
+so here we are the game programming can use a lot languages more than you think but the easiest is => C++ , C# so here we Are:
+ - ## C#
+     - [**Solo learning**](https://www.sololearn.com/learn/courses/c-sharp-introduction/lesson/1987937027?p=1)
+     - [**C# Tutorial**](https://csharp-video-tutorials.blogspot.com/p/free-c-video-tutorial-for-beginners.html)
      - [**Brackeys C# Basics**](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
-        
-      - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
+     - [**Articles**](https://www.tutorialspoint.com/csharp/)
         
       - [**C# for Beginners**](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
       - [**Unity Learn Begginner scripting**](https://learn.unity.com/course/beginner-scripting)
@@ -73,89 +79,5 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
  - **Participating in Game Jams is Important to Gain exp after getting the basics**
  - [itch Jams](https://itch.io/jams) 
 
-# Modelling 
- - ## Blender 
-    Blender is a powerful 3D modelling open source software
-
-     - [Download](https://www.blender.org/download/)
-     - ### Courses
-     
-         - [Blender LVL1](https://www.youtube.com/watch?v=cBlXIJAawyg&list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF)
-         - [Blender LVL2](https://www.youtube.com/watch?v=wTpSxsl7s_I&list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)
-         - [Blender LVL3](https://www.youtube.com/watch?v=pYAj3XO1gpU&list=PL-BTVXXeho5SkaGIWkWlz2FNs9GDQ1m3w)
-         - [Blender Fundementals Tutorial Series](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
-         - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLexwJr_iILK7IkuhEeAYeN7aLV5AAXKa-)
-         - [Lighting Mastery Course](https://www.youtube.com/watch?v=Ys4793edotw&list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
-         - [Low poly character clothing](https://www.youtube.com/watch?v=szEeu6_b4fg&feature=share)
- - ## Adobe fuse
-    
-
-     - [Download](https://www.adobe.com/mena_en/products/fuse.html)
-     - [Portable download](https://thehouseofportable.com/613/adobe-fuse-cc-portable/)
-     - ### Courses
-         -  [Character Creation With Adobe Fuse CC/Mixamo Beginner Tutorial](https://www.youtube.com/watch?v=FrPjNYk_JQ0)
-
-
-
-# Music & SFX
-  - [Music Theory](https://www.youtube.com/playlist?list=PLUyDmNalB0rjteAmf8ciJ1zL2GqnzryS_)
-  - [Sound Engineering](https://www.youtube.com/playlist?list=PLRwSxn6RVkVIM9443VFgYHNkYuqbmEakk)
-
-  - ## Fruity Loops demo * can export sounds only 
-
-     - [Download](https://www.image-line.com/fl-studio-download/)
-
-     - [FL Studio Tutorial](https://www.youtube.com/playlist?list=PLusIP7Dkr3aoO-zDc_VT26YOOrsvw53Ff)
-
-  - ## LetsMakeMusic
-
-     - [Download](https://lmms.en.uptodown.com/windows)
-
-
-     - [LMMS Tutorial](https://www.youtube.com/watch?v=TrMTlpeSw8Y&list=PLqazFFzUAPc4K1To5JTtR3cskcdRifM1M)
-
-
-# Graphics Programming
-
- - ## OpenGL in C++  
-
-      - [Learn OpenGL](https://learnopengl.com/Introduction)
-      - [Cherno OpenGL Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
-      - [OpenGL API Documentation](http://docs.gl)
-     
- - ## DirectX in C++  
-
-    - [Learn OpenGL(Yes again, it has some important concepts)](https://learnopengl.com/Introduction)
-    - [The Ultimate DirectX Tutorial Website](http://www.directxtutorial.com/)
-    - [ChiliTomatoNoodle](https://www.youtube.com/channel/UCsyHonfwHi4fLb2lkq0DEAA) 
-    - [DirectX Documentation](https://docs.microsoft.com/en-us/windows/win32/directx)
-
-
-	
-	
-# Assets
- - [Kenney](https://kenney.nl/assets)
- - [Unity Asset Store](https://assetstore.unity.com/)
- - [itch](https://itch.io/game-assets)
- - ## 2D Bitmap and Vector Graphics
-     - [opengameart.org](http://opengameart.org)
-     - [www.pexels.com](http://www.pexels.com)
-     - [www.shutterstock.com](http://www.shutterstock.com)
-     - [www.istockphoto.com](http://www.istockphoto.com)
-     - https://texturehaven.com/
- - ## 3D Graphics
-     - [www.turbosquid.com](http://www.turbosquid.com)
-     - [shop.bitgem3d.com](http://shop.bitgem3d.com)
-     - [tf3dm.com](http://tf3dm.com)
-     - [www.cgtrader.com/free-3d-models](http://www.cgtrader.com/free-3d-models)
-     - http://nasa3d.arc.nasa.gov
-     - [www.creativecrash.com](http://www.creativecrash.com)
-     - [sketchfab.com](http://sketchfab.com)
-     - [opengameart.org](http://opengameart.org)
- - ## Digital Sound and Music
-     - [www.freesound.org](http://www.freesound.org)
-     - [www.newgrounds.com](http://www.newgrounds.com)
-     - [incompetech.com](http://incompetech.com)
-     - [www.sounddogs.com](http://www.sounddogs.com)
-     - https://downloads.khinsider.com/
-# RoadMap
+#Game Programming
+#Road map
