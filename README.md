@@ -1,7 +1,8 @@
 # **Intro**
-**Life is a game you just need to it's know the rules**
-Game Dev. Is a very interested Track (To me at leaset) You Can make Your own World With It. Game Dev. consist of 3 basics 
-branches=> Game Programming - Art - Design and Each one of them is more interesting than the others for make a game we use 
+                             Life is a game you just need to it's know the rules
+  
+**Game Dev.** Is a very interested Track (To me at leaset) You Can make Your own World With It. Game Dev. consist of 3 basics 
+branches=> (Game Programming - Art - Design) and Each one of them is more interesting than the others for make a game we use 
 a platforms Called Engine it make it easy for as to make a game So you don't need to learn subjects to make a game at least
 for beginner you just need to learn the engine Function & programming so what stop you for being A part of Game dev. track
 just start from here.
