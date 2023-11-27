@@ -84,5 +84,4 @@ so here we are the game programming can use a lot languages more than you think 
  - **Participating in Game Jams is Important to Gain exp after getting the basics**
  - [itch Jams](https://itch.io/jams) 
 
-# **Game Programming**
 # **Road map**
