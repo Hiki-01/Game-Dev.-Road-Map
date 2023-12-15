@@ -77,9 +77,26 @@ so here we are the game programming can use a lot languages more than you think 
              - Recommended Resources
                  - [Documentation](https://docs.unrealengine.com/en-US/index.html)
                  - [UnrealEngine Official Playlists](https://www.youtube.com/user/UnrealDevelopmentKit/search?query=tutorial)
-
+---
 # Design Road Map
 [Every Thing have a beginning and Your beginning Start With click](https://github.com/Mohamed-Aqeel/Game-Design-Roadmap.git)
+---
+# Game Art
+## 2D Art
+* #### Pixel Art:
+in Pixel Art We Use Aseprite it a Platform made only for Pixel Art And You Can Download It From [Here](https://getintopc.com/softwares/graphic-design/aseprite-free-download/?id=000436253866) And Learn How To Use it from (Here)[https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk]
+ We  Will Learn:
+(How to Draw & Anim Objects)[https://youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b]: Watch Vedio (1)[https://www.youtube.com/watch?v=cWKhytYUGTg&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=1&t=362s&pp=iAQB] (2)[https://www.youtube.com/watch?v=UN-m3o9V7kk&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=2&t=367s&pp=iAQB] (3)[https://www.youtube.com/watch?v=N4Z4MdZ1KWY&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=3&t=616s&pp=iAQB] & (4)[https://www.youtube.com/watch?v=gW1G_FLsuEs&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=5&t=242s&pp=iAQB]
+(Draw Tileset)[https://www.youtube.com/watch?v=btnH0x7_1g8&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=10&t=173s&ab_channel=MortMort]
+(How to Draw & Anim Charterers)[https://youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b] Watch Vedio (1)[https://www.youtube.com/watch?v=cWKhytYUGTg&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=1&t=362s&pp=iAQB] (2)[https://www.youtube.com/watch?v=UN-m3o9V7kk&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=2&t=367s&pp=iAQB] (3)[https://www.youtube.com/watch?v=N4Z4MdZ1KWY&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=3&t=616s&pp=iAQB] & (4)[https://www.youtube.com/watch?v=gW1G_FLsuEs&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=5&t=242s&pp=iAQB]
+(Draw Tileset)[https://www.youtube.com/watch?v=btnH0x7_1g8&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b&index=10&t=173s&ab_channel=MortMort]
+for more understanding or start from Minus Level Maybe This Will (Help)[https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_]
+#### 2D Art:
+Now You can learn How to Made 2D art not A Pixel One and for This We Will Use PS ((PhotoShop))[https://getintopc.com/softwares/graphic-design/adobe-photoshop-2023-free-download-1758627/?id=002109736857] and Here What We Will Learn:
+* characters Model & Anim(Here)[https://www.youtube.com/watch?v=mnJb5iwYAmg&ab_channel=Blackthornprod] & (Here)[https://www.youtube.com/watch?v=rLdA4Amea7Y&ab_channel=Brackeys]
+* (Objects Model & Anim)[]
+* (Tilesest)[]
+---
 # Game Jams 
  - **Participating in Game Jams is Important to Gain exp after getting the basics**
  - [itch Jams](https://itch.io/jams) 
