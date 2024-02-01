@@ -82,6 +82,11 @@ so here we are the game programming can use a lot languages more than you think 
 [Every Thing have a beginning and Your beginning Start With click](https://github.com/Mohamed-Aqeel/Game-Design-Roadmap.git)
 ---
 # Game Art
+## Color Theory
+* Before we Draw Or Modeling Any Thing We Should Now Everything About Colors So here we Are: 
+1- [color theory Starting ](https://youtu.be/NBg3GjrcMF4?si=dm0HkYGOj8PDecUF)
+2- [color theory Basics ](https://youtu.be/YeI6Wqn4I78?si=MszkrsgBNF4eRkuf)
+3-[نظرية الألوان](https://youtu.be/BMIa1LyWPAo?si=8lHR1Zq3j8YbifKb)
 ## 2D Art 
 * #### Pixel Art:
 in Pixel Art We Use Aseprite it's a Platform made only for Pixel Art And You Can Download It From [Here](https://getintopc.com/softwares/graphic-design/aseprite-free-download/?id=000436253866) And Learn How To Use it from [Here](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV2Zl8LIqT93rsgnpkSvmevk)
